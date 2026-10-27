@@ -56,6 +56,7 @@ The list is intentionally small enough to maintain by hand. If a tool stops bein
 
 ## Background removal
 
+- [Background Remover](https://tomaserben.com/free-tools/image-background-remover) 🔒 — Remove image backgrounds with no signup, processed in the browser so files never upload; exports transparent PNG.
 - [imgkilo — change photo background](https://imgkilo.com/change-photo-background) 🔒 — Cut out the subject and drop in white, a solid color, or transparency, in the browser. Handy for ID photos and simple product shots.
 - [Photoroom](https://www.photoroom.com) `$` — Background removal aimed at product and marketplace photos, with templates and batch tools. Strong results; full resolution and batch need a plan.
 - [rembg](https://github.com/danielgatis/rembg) `OSS` — Python library and CLI built on U²-Net. Self-host it to remove backgrounds in bulk with no per-image cost and nothing leaving your machine.
